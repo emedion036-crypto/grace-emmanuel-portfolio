@@ -1,27 +1,35 @@
-GRACE EMMANUEL PORTFOLIO
-==========================
+GRACE EMMANUEL — PROFESSIONAL PORTFOLIO
+========================================
 
-This is a ready-to-publish personal portfolio website.
+This is a real HTML/CSS website intended for GitHub Pages.
 
 FILES
-- index.html  = website content
-- style.css   = design and responsive layout
+-----
+index.html — website structure and content
+style.css  — design and responsive layout
+README.txt — this guide
 
-HOW TO USE
-1. Keep index.html and style.css in the same folder.
-2. Open index.html in a browser to preview the site.
-3. To publish it online, upload these files to a GitHub repository and enable GitHub Pages.
-4. When you want to edit the site, open index.html and change the text. Save the file and republish.
+CAREER STRUCTURE
+-----------------
+Business Development / B2B: 2020–2022
+Customer Experience / Customer Support: 2022–2026
+Sales Development Representative (part-time): 2024–Present
 
-IMPORTANT PRIVACY NOTE
-The portfolio deliberately does not publish raw screenshots containing customer names,
-addresses, email addresses, customer numbers, bank details, transaction references or
-other confidential information. The evidence you supplied is represented as sanitized
-work samples instead.
+CASE STUDIES
+------------
+The Selected Work section now includes three anonymized customer-support case studies:
+1. Untangling a Multi-Issue Account Request
+2. Tracing a Historical Payment Discrepancy
+3. High-Volume Customer Support
 
-TIMELINE USED
-- Business Development: 2020–2022
-- Customer Experience / Customer Support: 2022–2026
-- Sales Development Representative (part-time): 2024–Present
+PRIVACY
+-------
+The case studies are anonymized. Do not publish raw customer records, customer names,
+emails, addresses, account numbers, transaction references, bank details, or confidential
+company documents. The portfolio describes the work and outcomes without exposing sensitive data.
 
-The dates above follow the career structure provided by Grace for this portfolio.
+GITHUB PAGES
+------------
+Keep index.html and style.css in the repository root.
+Current project-site URL:
+https://emedion036-crypto.github.io/grace-emmanuel-portfolio/
